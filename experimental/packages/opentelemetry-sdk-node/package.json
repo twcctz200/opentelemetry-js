@@ -49,7 +49,7 @@
     "@opentelemetry/exporter-trace-otlp-http": "0.34.0",
     "@opentelemetry/exporter-trace-otlp-proto": "0.34.0",
     "@opentelemetry/exporter-zipkin": "1.8.0",
-    "@opentelemetry/core": "1.8.0",
+    "@opentelemetry/core": "2.8.0",
     "@opentelemetry/instrumentation": "0.34.0",
     "@opentelemetry/resources": "1.8.0",
     "@opentelemetry/sdk-metrics": "1.8.0",
