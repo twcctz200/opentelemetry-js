@@ -76,7 +76,7 @@
     "webpack": "4.46.0"
   },
   "dependencies": {
-    "@opentelemetry/core": "1.8.0",
+    "@opentelemetry/core": "2.8.0",
     "@opentelemetry/resources": "1.8.0",
     "@opentelemetry/sdk-metrics": "1.8.0",
     "@opentelemetry/sdk-trace-base": "1.8.0"

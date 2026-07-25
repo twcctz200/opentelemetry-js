@@ -65,9 +65,9 @@
   },
   "dependencies": {
     "@opentelemetry/context-async-hooks": "1.8.0",
-    "@opentelemetry/core": "1.8.0",
+    "@opentelemetry/core": "2.8.0",
     "@opentelemetry/propagator-b3": "1.8.0",
-    "@opentelemetry/propagator-jaeger": "1.8.0",
+    "@opentelemetry/propagator-jaeger": "2.9.0",
     "@opentelemetry/sdk-trace-base": "1.8.0",
     "semver": "^7.3.5"
   },
